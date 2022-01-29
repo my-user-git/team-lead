@@ -1,0 +1,13 @@
+.section-promo, .section-product, .section-homo {
+    &__content {
+        &_btn:hover {
+            background-color: $hover3b;
+        }
+    }
+}
+
+.section-order__form_button:hover {
+  color: $lilac5e;
+  background-color: transparent;
+  outline: 2px solid $lilac5e;
+}
