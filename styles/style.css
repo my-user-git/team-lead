@@ -74,10 +74,6 @@ button, input {
   transition: background-color ease-in-out 0.3s;
 }
 
-.rubl {
-  font-family: "PT Sans", serif;
-}
-
 /* section - promo */
 .section-promo__content {
   margin-bottom: 100px;
